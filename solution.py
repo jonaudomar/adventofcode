@@ -1,6 +1,7 @@
 def day1(input_file, start=50):
     """
-    Solution of the day 1 of advent of code (2025)
+    Description of the problem to solve : https://adventofcode.com/2025/day/1
+    This function is a solution of the day 1 of advent of code (2025)
     """
     dictionnary = []
     with open(input_file, "r") as puzzle_input:
